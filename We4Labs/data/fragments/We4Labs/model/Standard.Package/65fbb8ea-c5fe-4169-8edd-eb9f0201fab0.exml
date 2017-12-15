@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="we4labs" version="4">
+  <OBJECT>
+    <ID name="we4labs" mc="Standard.Package" uid="65fbb8ea-c5fe-4169-8edd-eb9f0201fab0"/>
+    <PID name="We4Labs" mc="Standard.Project" uid="006f89f6-0f26-4247-adbe-916d78df9e9b"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[we4labs]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Proposta" mc="Standard.Class" uid="6cd9f371-baf6-47e7-9db8-287743b55c1b"/>
+        <COMPID name="java" mc="Standard.Package" uid="4fc7dff4-0c7f-4234-baaa-ff220b024813"/>
+        <COMPID name="Usuario" mc="Standard.Class" uid="399e9306-aacb-4129-a206-dcb04159a683"/>
+        <COMPID name="Cliente" mc="Standard.Class" uid="38f25459-2b1f-43b0-ad23-0edfbc5185f3"/>
+        <COMPID name="HistoricoEnvioProposta" mc="Standard.Class" uid="24621e89-960c-4036-961d-40ae2fff4e40"/>
+        <COMPID name="Setor" mc="Standard.Class" uid="59891686-be63-4a50-a380-4cb37ec6139f"/>
+        <COMPID name="Contato" mc="Standard.Class" uid="6fae4ac4-4f23-46ce-aa7a-860e8ba68d60"/>
+        <COMPID name="Endereco" mc="Standard.Class" uid="2d5b140b-1608-4eeb-8f79-3bcb3be7db3c"/>
+        <COMPID name="Foto" mc="Standard.Class" uid="096672f1-72bf-46cd-81e5-5cb46215c3a0"/>
+        <COMPID name="TipoContrato" mc="Standard.Class" uid="cc8a0023-d703-4c44-9dad-b092948fbf05"/>
+        <COMPID name="StatusProposta" mc="Standard.Class" uid="6bc06992-960b-46b0-be06-718312c697f6"/>
+        <COMPID name="CondicaoPagamento" mc="Standard.Class" uid="5585307e-84e5-4253-a710-1c572829dbee"/>
+        <COMPID name="ProdutoProposto" mc="Standard.Class" uid="45371bb2-0144-4edc-8d33-56c9a21b4e38"/>
+        <COMPID name="ServicoProposto" mc="Standard.Class" uid="cb6972e5-0d2c-4c80-aa1d-07046fb77c11"/>
+        <COMPID name="Produto" mc="Standard.Class" uid="db3c46f7-37e4-44b8-8f5a-188029586a77"/>
+        <COMPID name="Servico" mc="Standard.Class" uid="62abc3c8-a1b1-4a2e-a52d-b2ed78e6862f"/>
+        <COMPID name="StatusProposta" mc="Standard.Class" uid="c2440402-2198-4866-8b11-67f518e454b0"/>
+        <COMPID name="Transportadora" mc="Standard.Class" uid="36972a46-2e90-449a-968b-fe66d96348ed"/>
+        <COMPID name="TipoEntrega" mc="Standard.Class" uid="15f376c2-73df-4e0b-b482-9e67982695a1"/>
+        <COMPID name="OrdemServico" mc="Standard.Class" uid="145fce13-b541-49aa-a875-3b6f5323a870"/>
+        <COMPID name="PermissoesAcesso" mc="Standard.Class" uid="af243bd0-4a6e-4062-94ef-2031fb0121b2"/>
+        <COMPID name="Estoque" mc="Standard.Class" uid="51361529-1348-4584-a323-d36dd0076ce0"/>
+        <COMPID name="Resultado" mc="Standard.Class" uid="4d0c0997-bf41-44e3-b48a-48c99da4eca5"/>
+        <COMPID name="Ensaio" mc="Standard.Class" uid="bdc35d52-0cab-4f49-a0d1-d8617948eaab"/>
+        <COMPID name="Metodo" mc="Standard.Class" uid="a0bae007-34db-476c-aea1-9d3379bfa0fb"/>
+        <COMPID name="LegislacaoNormas" mc="Standard.Class" uid="7aedf9cb-7fbd-4706-bada-058de77ddc46"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Projeto" mc="Standard.ClassDiagram" uid="8d474890-8ee8-451c-8ab2-72e1ba514661"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
